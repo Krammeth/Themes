@@ -1,1 +1,14 @@
+/**
+ * @name Arc Browser
+ * @author Krammeth
+ * @description From "The Browser Company", now to your Discord!
+ * @version 1.0.0
+*/
 
+@import url('link goes here');
+@import url('link goes here as well');
+
+/* Settings */
+:root {
+  --version: "1.0.0";
+}

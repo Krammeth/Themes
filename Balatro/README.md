@@ -7,5 +7,6 @@ Comes in different flavours:
 - Buffoon
 - Celestial
 - Arcana
+- Spectral
 - Standard
 ...and many more!

@@ -4,9 +4,10 @@ Let's go gambling!
 Comes in different flavours:
 - Main
 - Blind
-- Buffoon
-- Celestial
-- Arcana
-- Spectral
-- Standard
+- Shop
+- Buffoon Pack
+- Celestial Pack
+- Arcana Pack
+- Spectral Pack
+- Standard Pack
 ...and many more!
